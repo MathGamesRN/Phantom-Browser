@@ -11,7 +11,13 @@ A sleek Node.js browser proxy that routes **all traffic through the server**, no
 - 🛡 **Inline toolbar** — navigate without returning to the home page
 - ⚡ **Quick access** — one-click Wikipedia, Hacker News, Archive.org, GitHub
 
-## Setup
+## Codespaces setup
+Log into your personal github account and go to this repo.
+Click on the green "code" button, and go into the codespaces tab.
+Click on Create codespace on main, and wait for it to load.
+Once you have done that, you can follow the normal setup
+
+## Running
 
 ### 1. Install dependencies
 
