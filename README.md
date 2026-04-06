@@ -1,4 +1,4 @@
-# ◈ Phantom — Server-Side Proxy Browser
+ # ◈ Phantom — Server-Side Proxy Browser
 
 A sleek Node.js browser proxy that routes **all traffic through the server**, not the client.
 
@@ -12,10 +12,10 @@ A sleek Node.js browser proxy that routes **all traffic through the server**, no
 - ⚡ **Quick access** — one-click Wikipedia, Hacker News, Archive.org, GitHub
 
 ## Codespaces setup
-Log into your personal github account and go to this repo.
-Click on the green "code" button, and go into the codespaces tab.
-Click on Create codespace on main, and wait for it to load.
-Once you have done that, you can follow the normal setup
+- Log into your personal github account and go to this repo.
+- Click on the green "code" button, and go into the codespaces tab.
+- Click on Create codespace on main, and wait for it to load.
+- Once you have done that, you can follow the normal setup
 
 ## Running
 
